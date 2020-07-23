@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/json-schema-org/JSON-Schema-Test-Suite.git"
+    "url": "git+https://github.com/WilliamHeaven/JSON-Schema-Test-Suite.git"
   },
   "keywords": [
     "json-schema",
